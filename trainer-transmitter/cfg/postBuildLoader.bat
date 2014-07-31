@@ -1,0 +1,1 @@
+copy FalconDisplaysExposer.exe ..\dist\
